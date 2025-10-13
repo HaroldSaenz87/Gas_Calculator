@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">Project_1</string>
+    <string name="gasoline_calculator">Gasoline Calculator</string>
+    <string name="road_type">Road Type</string>
+    <string name="yes">Yes</string>
+    <string name="need_a_c">Need A/C?</string>
+    <string name="aggressive_driver">Aggressive Driver?</string>
+    <string name="highway_mpg">Highway MPG</string>
+    <string name="cost_per_gallon">Cost per Gallon</string>
+    <string name="distance">Distance</string>
+    <string name="please_enter_the_distance">Please enter the distance</string>
+    <string name="please_enter_the_cost_per_gallon">Please enter the cost per gallon</string>
+    <string name="please_enter_the_vehicle_milage">Please enter the vehicle milage</string>
+    <string name="yes_button">Yes</string>
+    <string name="no">No</string>
+    <string name="average_speed">Average Speed</string>
+    <string name="calculate">Calculate!</string>
+    <string name="_35">35</string>
+    <string name="_0_00">$0.00</string>
+    <string name="you_ll_need_to_spend_this_much_on_a_round_trip">You\'ll need to spend this much on a round trip:</string>
+</resources>
