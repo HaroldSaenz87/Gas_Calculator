@@ -24,3 +24,10 @@ with **Java**, the app provides a simple and intuitive interface for calculating
 2. **Adjust MPG**
    ```java
    Final MPG = Initial MPG * ((100 - modifier) / 100)
+
+---
+
+## ScreenShot
+
+![App Screnshot](images/appScreenshot.png)
+
