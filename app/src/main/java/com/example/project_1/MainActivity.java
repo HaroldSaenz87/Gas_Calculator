@@ -99,7 +99,7 @@ public class MainActivity extends AppCompatActivity {
 
 
 
-        // checkbox
+        // checkbox function
 
         AggressiveDriver.setOnClickListener(new View.OnClickListener() {
             @Override
