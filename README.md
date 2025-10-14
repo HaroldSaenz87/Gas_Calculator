@@ -29,6 +29,6 @@ with **Java**, the app provides a simple and intuitive interface for calculating
 
 ## ScreenShot
 
-![Gas_Calculator](<img width="1200" height="2541" alt="appScreenshot" src="https://github.com/user-attachments/assets/1b2675c3-e369-44ed-91df-8fc203a35a8e" />)
+![Gas_Calculator](https://github.com/user-attachments/assets/cb1b3852-cbd8-404b-8ecb-b2dffda31f67)
 
 
